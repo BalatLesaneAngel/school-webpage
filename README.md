@@ -8,7 +8,6 @@
         font-weight: bold;
         color: #1e90ff;
       }
-
       body {
         font-family: "Arial", sans-serif;
       }
@@ -23,7 +22,6 @@
       h2.contact {
         color: #20b2aa;
       }
-
       .outdoor {
         background-color: #afeeee;
         padding: 5px;
@@ -31,7 +29,6 @@
         border-radius: 5px;
         margin: 5px 0;
       }
-
       .section {
         background-color: #f8f3f3;
         padding: 10px;
@@ -41,13 +38,11 @@
   </head>
   <body>
     <h1>Sunnydale School</h1>
-
     <h2 class="mission">Mission Statement</h2>
     <p>
       Our mission is to provide quality education that nurtures the growth of
       students in academics, arts, and character.
     </p>
-
     <h2 id="upcoming-events">Upcoming Events</h2>
     <ul>
       <li data-event-type="indoor" title="Event Type: Indoor">
@@ -66,7 +61,6 @@
         Sports Day - <span style="font-weight: bold; color: red">June 20</span>
       </li>
     </ul>
-
     <h2 class="contact">Contact Us</h2>
     <div class="section">
       <p>
